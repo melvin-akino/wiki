@@ -1,0 +1,7 @@
+pre code {
+	display:table;
+}
+
+pre {
+	overflow: visible !important;
+}
